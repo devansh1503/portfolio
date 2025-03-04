@@ -7,7 +7,7 @@ const objects = [
         'files':[
             {
                 'title':'index.js',
-                'link': '/project'
+                'link': '/projects/code-execution-engine'
             }
         ]
     },
@@ -16,7 +16,7 @@ const objects = [
         'files':[
             {
                 'title':'index.js',
-                'link': '/project'
+                'link': '/projects'
             }
         ]
     },
@@ -25,7 +25,7 @@ const objects = [
         'files':[
             {
                 'title':'index.js',
-                'link': '/project'
+                'link': '/projects/video-streaming'
             }
         ]
     },
@@ -34,7 +34,7 @@ const objects = [
         'files':[
             {
                 'title':'index.js',
-                'link': '/project'
+                'link': '/projects'
             }
         ]
     },
@@ -43,7 +43,7 @@ const objects = [
         'files':[
             {
                 'title':'index.js',
-                'link': '/project'
+                'link': '/projects'
             }
         ]
     },
@@ -52,7 +52,7 @@ const objects = [
         'files':[
             {
                 'title':'index.js',
-                'link': '/project'
+                'link': '/projects'
             }
         ]
     },
@@ -61,7 +61,7 @@ const objects = [
         'files':[
             {
                 'title':'index.js',
-                'link': '/project'
+                'link': '/projects'
             }
         ]
     },
@@ -70,7 +70,7 @@ const objects = [
         'files':[
             {
                 'title':'index.js',
-                'link': '/project'
+                'link': '/projects'
             }
         ]
     },

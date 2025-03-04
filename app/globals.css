@@ -6,6 +6,8 @@
 body{
   background-color: rgb(1,22,39);
   font-family: Consolas;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 .cyan-font{
   color:rgb(56,184,150)

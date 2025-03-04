@@ -19,7 +19,7 @@ const page = () => {
         </div>
         <div className='orange-font' style={{borderLeft:'1px solid rgb(116, 151, 180, 0.2)', height:"90vh", padding:"10px"}}>
             <p>//OUTPUT-</p>
-            <div className='blue-font' style={{backgroundColor:"black", marginTop:"30px", padding:'20px'}}>
+            <div className='comment-font' style={{backgroundColor:"black", marginTop:"30px", padding:'20px'}}>
                 <p style={{marginBottom:"30px"}}>Hi, I'm Devansh, 23 years old, and I have some fascinating hobbies!</p>
                 <p>Here are the things I love to do:</p>
                 <p>📸 I capture moments that tell a story, freezing time with my lens.</p>
