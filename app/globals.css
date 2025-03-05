@@ -4,10 +4,11 @@
   box-sizing: border-box;
 }
 body{
-  background-color: rgb(1,22,39);
+  /* background-color: rgb(1,22,39); */
   font-family: Consolas;
   overflow-x: hidden;
   overflow-y: hidden;
+  background-image: url('../public/home-background.jpg');
 }
 .cyan-font{
   color:rgb(56,184,150)
